@@ -3,6 +3,7 @@ import Aux from '../../aux/Aux';
 import classes from './Layout.css';
 
 const layout = ( props ) => {
+
   return (
     <Aux>
       <div>Toolbar, Side-drawer, backdrop</div>
